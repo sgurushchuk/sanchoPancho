@@ -1,0 +1,3 @@
+export const MENU_PAGINATIOPN_LIMIT = 9;
+export const MAIN_PAGINATIOPN_LIMIT = 12;
+export const ORDERS_PAGINATIOPN_LIMIT = 5;

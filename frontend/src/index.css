@@ -1,0 +1,24 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #efefef;
+  font-size: 14px;
+}
+
+a {
+  color: #000;
+	text-decoration: none;
+}
+
+html, body, #root {
+  height: 100%;
+}
