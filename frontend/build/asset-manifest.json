@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.002d7971.css",
+    "main.js": "/static/js/main.1109c043.js",
+    "static/media/slide_4.png": "/static/media/slide_4.a7f7d0e02a650944e68b.png",
+    "static/media/slide_2.png": "/static/media/slide_2.bee8339fbcc664fb420e.png",
+    "static/media/slide_3.png": "/static/media/slide_3.89b84bb01100be6d9e65.png",
+    "static/media/slide_1.png": "/static/media/slide_1.05f6070cc6880cfa968c.png",
+    "static/media/image_main.png": "/static/media/image_main.3ab13298c597c3ed1828.png",
+    "static/media/about_us_right_1.png": "/static/media/about_us_right_1.980e25103faf5b1ff116.png",
+    "static/media/about_us_left_2.png": "/static/media/about_us_left_2.f8275def6ee03ec3ce14.png",
+    "static/media/about_us_rigth_2.png": "/static/media/about_us_rigth_2.608d6a219238f5ff1238.png",
+    "static/media/about_us_rigth_3.png": "/static/media/about_us_rigth_3.2e74a1c4c754213aaea9.png",
+    "static/media/about_us_left_3.png": "/static/media/about_us_left_3.55cf94151cd85ccf93d2.png",
+    "static/media/about_us_left_1.png": "/static/media/about_us_left_1.0fcd2f28a780ae7d2060.png",
+    "static/media/SanchoLogo.svg": "/static/media/SanchoLogo.169325ae7ce52d31f9357baedb9acf23.svg",
+    "static/media/category_sushi.svg": "/static/media/category_sushi.87cafacdfc3c455646a1cd2439111ea6.svg",
+    "static/media/desert_icon.svg": "/static/media/desert_icon.c661ab9c9029bacbdf718e04a529a005.svg",
+    "static/media/drink_icon.svg": "/static/media/drink_icon.aef7b49e1fc4f4d2f1adf2d301beb5bf.svg",
+    "static/media/pizza_icon.svg": "/static/media/pizza_icon.d9e06c23ae69a3834a5987b332067c50.svg",
+    "static/media/user_icon.svg": "/static/media/user_icon.019e1dfbc4f04faa02a208933e69142d.svg",
+    "static/media/salad_icon.svg": "/static/media/salad_icon.7beea26b629de9cbe70b36c67b41eb2a.svg",
+    "static/media/burger_icon.svg": "/static/media/burger_icon.b42489d0b58feb6d2287c570b1776b97.svg",
+    "static/media/pasta_icon.svg": "/static/media/pasta_icon.4893cc5e2a504122084692b6e3dfb9f0.svg",
+    "static/media/trash-icon.svg": "/static/media/trash-icon.3fb079ca5c374de63c0ee70411db9f2c.svg",
+    "static/media/soup_icon.svg": "/static/media/soup_icon.fe2fe85e12c1f9bef8bd063a5588d46d.svg",
+    "static/media/sides_icon.svg": "/static/media/sides_icon.8b9ca76612a0bae69f9e2a7a100bf92b.svg",
+    "static/media/icon-phone.svg": "/static/media/icon-phone.6900ee8d4e13c9acc19c50fdd0cacc79.svg",
+    "static/media/shopping-bag.svg": "/static/media/shopping-bag.a4bcd22d66890f8e1ce53f45383032c3.svg",
+    "index.html": "/index.html",
+    "static/media/mini-shopping-bag.svg": "/static/media/mini-shopping-bag.f2def0ad441c5103791d479d09fa71b7.svg",
+    "static/media/search_icon.svg": "/static/media/search_icon.f7ebf83dccebcd87337d228d3a5cc80f.svg",
+    "static/media/left_icon.svg": "/static/media/left_icon.f9dda3aed1dd2d68f6a3f97dc213a465.svg",
+    "static/media/right_icon.svg": "/static/media/right_icon.eb86e593537722430b4e94832e56b7fc.svg",
+    "main.002d7971.css.map": "/static/css/main.002d7971.css.map",
+    "main.1109c043.js.map": "/static/js/main.1109c043.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.002d7971.css",
+    "static/js/main.1109c043.js"
+  ]
+}
